@@ -1,3 +1,3 @@
 # Password-Manager
 
-Password Manager to JSON file GUI.
+Password converter to JSON file GUI.
