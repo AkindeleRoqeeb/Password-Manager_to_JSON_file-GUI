@@ -1,3 +1,4 @@
 # Password-Manager
- to 'JSON' file GUI
-Password Manager to JSON file GUI
+Convert to 'JSON' file, GUI.
+
+Password Manager to JSON file GUI.
